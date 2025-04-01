@@ -1,0 +1,7 @@
+{
+    "objectscript.conn": {
+        "active": true,
+        "server": "irislocal",
+        "ns": "DAVID"
+    }
+}
