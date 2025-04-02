@@ -10,6 +10,9 @@ Storage Default
 <Value name="1">
 <Value>idPersona</Value>
 </Value>
+<Value name="2">
+<Value>nombre</Value>
+</Value>
 </Data>
 <DefaultData>ObtenerPersonaRequestDefaultData</DefaultData>
 <Type>%Storage.Persistent</Type>
